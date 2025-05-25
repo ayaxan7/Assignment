@@ -1,4 +1,4 @@
-# 🍔 FoodOrder - Android Food Delivery App
+# ProfileUI
 
 A static profile screen Android application UI built using **Kotlin** and **Jetpack Compose**.
 ---
@@ -9,7 +9,7 @@ A static profile screen Android application UI built using **Kotlin** and **Jetp
   <tr>
     <td align="center">
       <strong>📸 Image</strong><br>
-      <img src="media/demo_image.jpeg" width="250" alt="Screenshot"/>
+      <img src="media/demo_ss.jpeg" width="250" alt="Screenshot"/>
     </td>
     <td align="center">
       <strong>🎥 Video</strong><br>
